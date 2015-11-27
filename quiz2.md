@@ -2,7 +2,7 @@ Quiz 2
 
 1. 請分辨並寫出以下程式碼的名稱：
 
-  ```
+  ```ruby 
   a = 1 
   @a = 2
   @@a = 5
@@ -15,7 +15,7 @@ Quiz 2
 3. 請說明 class 和 instance variable 之間的差別
 
 4. 如果今天我為一個叫 User 的 class 產生一個新物件的方式是: 
-  ```
+  ```ruby
   User.new("Bob", "male", "Engineer")
   ```
 請寫出 User class 的 initialize method
