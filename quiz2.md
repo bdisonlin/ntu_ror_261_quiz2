@@ -18,7 +18,10 @@
   ```
 請寫出 User class 的 initialize method
 
-5. self 在 class 裡和在 method 裡分別是指向什麼
+5. self 在：
+  a. class 裡，method 外面
+  b. class 裡，instance method 裡
+  分別是指向什麼?
 
 6. attr_accessor 的功能是什麼
 
