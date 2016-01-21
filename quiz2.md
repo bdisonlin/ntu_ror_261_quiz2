@@ -21,8 +21,8 @@
 請寫出 User class 的 initialize method
 
 6. 在：
-  A.  class 裡，method 外面
-  b.  class 裡，instance method 裡
+  A.  一個 class 裡，method 外面
+  B.  一個 class 裡，instance method 裡
   self 分別是指向什麼?
 
 7. attr_accessor 的功能是什麼，它和 attr_reader、attr_writer 之間的差別是什麼？
